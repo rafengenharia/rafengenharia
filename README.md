@@ -1,6 +1,6 @@
 # Ricardo Ferreira
 
-Senior Software Engineer · .NET and Angular · Brazil
+Senior Software Engineer SDD (.NET / Java ) | AI-Assisted Architecture | Cloud (AWS/GCP) | Distributed Systems & DDD | Tech Lead
 
 About twenty years in the .NET ecosystem, building systems where mistakes are expensive: payments, file processing and customer-facing channels.
 
