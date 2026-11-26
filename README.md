@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ricardo Ferreira
 
-<!--
-**rafengenharia/rafengenharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer · .NET and Angular · Brazil
 
-Here are some ideas to get you started:
+About twenty years in the .NET ecosystem, building systems where mistakes are expensive: payments, file processing and customer-facing channels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** backend architecture, REST APIs, event-driven systems, Domain-Driven Design, cloud and observability.
+
+## Selected work
+
+- [stripe-billing-toolkit](https://github.com/rafengenharia/stripe-billing-toolkit): Stripe subscription billing in ASP.NET Core (.NET 10): idempotent webhooks, plans, proration, customer portal, fully tested.
+- [stripe-webhook-idempotent-dotnet](https://github.com/rafengenharia/stripe-webhook-idempotent-dotnet): a small idempotent Stripe webhook handler with a replay test.
+- [speech-api-activex-replacement-dotnet](https://github.com/rafengenharia/speech-api-activex-replacement-dotnet): replacing a legacy ActiveX voice component with a small .NET API.
+
+More about me: https://rafengenharia.github.io/intro/
