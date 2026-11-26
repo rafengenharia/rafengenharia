@@ -13,3 +13,4 @@ About twenty years in the .NET ecosystem, building systems where mistakes are ex
 - [speech-api-activex-replacement-dotnet](https://github.com/rafengenharia/speech-api-activex-replacement-dotnet): replacing a legacy ActiveX voice component with a small .NET API.
 
 More about me: https://rafengenharia.github.io/intro/
+LinkedIn: https://www.linkedin.com/in/ricardo-alexandre-ferreira-9ba78839
